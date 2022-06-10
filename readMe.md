@@ -14,7 +14,7 @@ My name is **Agustin Vilariño**, i am software developer from 📌  **Buenos Ai
 
 ### 📐  Design  📐
 
-![ScreenShot](https://raw.githubusercontent.com/avilarino/article-html-css/master/images/screenshot/demo.jpg)
+![ScreenShot](https://raw.githubusercontent.com/avilarino/cart-demo-js/master/images/screenshot/demo.jpg)
 
 
 ### Link to Github Pages
