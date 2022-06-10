@@ -1,0 +1,67 @@
+
+[
+    {
+        "title": "gameboy advanced",
+        "price": 200,
+        "color": "blue",
+        "id": 1,
+        "img": "./images/gameboycolorblue.avif",
+        "stock": 1
+    },
+    {
+        "title": "gameboy junior",
+        "price": 300,
+        "color": "green",
+        "id": 2,
+        "img": "./images/gbgreen.jpg",
+        "stock": 1
+    },
+    {
+        "title": "gameboy plate",
+        "price": 100,
+        "color": "red",
+        "id": 3,
+        "img": "./images/gbred.webp",
+        "stock": 1
+    },
+    {
+        "title": "gameboy Laser",
+        "price": 400,
+        "color": "green",
+        "id": 4,
+        "img": "./images/gcyellow.webp",
+        "stock": 1
+    },
+    {
+        "title": "gameboy",
+        "price": 200,
+        "color": "blue",
+        "id": 5,
+        "img": "./images/gamegris.webp",
+        "stock": 1
+    },
+    {
+        "title": "gameboy",
+        "price": 300,
+        "color": "green",
+        "id": 6,
+        "img": "./images/gameboyviolet.jpg",
+        "stock": 1
+    },
+    {
+        "title": "gameboy",
+        "price": 100,
+        "color": "red",
+        "id": 7,
+        "img": "./images/gbred.webp",
+        "stock": 1
+    },
+    {
+        "title": "gameboy",
+        "price": 400,
+        "color": "green",
+        "id": 8,
+        "img": "./images/gameboy.jpg",
+        "stock": 1
+    }
+]
